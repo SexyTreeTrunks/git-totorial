@@ -7,9 +7,12 @@
 * git 설치하기
 
 ## git 사용법
+이 문서는 자주쓰는 명령어에 대해서만 간략하게 설명이 되어있습니다   
+자세한 설명은 [여기](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)를 참고하세요!  
+git bash 라는 프로그램을 찾아서 실행하세요
 
 ### git config
-
+git 설치했으면 반드시 해야함!  
 `git config --global user.name "자신의이름"`  
 `git config --global user.email 깃허브가입한@이메일주소`
 
@@ -20,6 +23,8 @@
 `git clone https://github.com/SexyTreeTrunks/git-totorial`
 
 ### git branch
+git에서 branch란 새로운 버전을 의미합니다. 말빨이딸려서 설명을 잘 못하겠으니 제가 참고하라고한 링크에서 잘 읽어보세요
+
 브랜치 생성  
 `git branch 브랜치이름`
 
@@ -52,8 +57,14 @@
 
 `git log`
 
-### git pull
-`git pull origin 다운로드할브랜치이름`
+----------------------------
+여기부터 변경내용을 원격저장소에 업로드하거나 다른 사람이 올린 코드와 합칠때 사용하는 명령어들입니다
+
+---------------------------
+
+
+### git fetch
+`git fetch origin 다운로드할브랜치이름`
 
 ### git merge
 `git merge 합칠 브랜치 이름`
@@ -74,6 +85,8 @@
 
 ### Insight  탭
 프로젝트 진행에 대한 상세정보 확인  
+
+
 
 ## 과제
 
