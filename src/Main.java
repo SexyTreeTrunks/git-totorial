@@ -2,7 +2,7 @@
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("-----수정할 코드-----");		
-		System.out.println("이민정");
+		System.out.println("이민정 - 코드 수정");
 		System.out.println("강명구");
 		System.out.println("정윤식");
 		System.out.println("유나");
