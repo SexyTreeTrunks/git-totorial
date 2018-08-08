@@ -10,6 +10,7 @@ public class Main {
 
 		System.out.println("-----새로 작성한 코드-----");	
 		System.out.println("강명구 수정 코드");
+		System.out.println("김용현 수정 코드");
 		
 		System.out.println("-----삭제할 코드-----");		
 		System.out.println("이민정 - 삭제할 코드");
