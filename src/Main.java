@@ -16,7 +16,7 @@ public class Main {
 
 		System.out.println("-----삭제할 코드-----");
 		System.out.println("정윤식 - 삭제할 코드");
-		System.out.println("유나 - 삭제할 코드");
 		System.out.println("김용현 - 삭제할 코드");
+		
 	}
 }
