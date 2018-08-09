@@ -5,7 +5,7 @@ public class Main {
 		System.out.println("강명구 수정 코드");
 		System.out.println("이민정 - 코드 수정");
 		System.out.println("정윤식");
-		System.out.println("유나");
+		System.out.println("유나-수정 코드");
 		System.out.println("김용현");
 
 		System.out.println("-----새로 작성한 코드-----");	
